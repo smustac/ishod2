@@ -1,2 +1,2 @@
 # ishod2
-Ispit ishoda 2
+Provjera ishoda 2, Stipe Mustać 27.11.2025
