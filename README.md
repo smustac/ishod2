@@ -1,5 +1,4 @@
 # ishod2
-Provjera ishoda 2, Stipe Mustać 27.11.2025
+Provjera ishoda 2, Stipe Mustać 15.1.2026
 
 
-Link na test page: http://localhost:9000/#/testpage
